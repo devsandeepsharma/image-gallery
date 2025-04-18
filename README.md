@@ -113,3 +113,9 @@ Here's a quick comparison of both approaches with code and behavior:
 ### ⚠️ Flexbox Limitations
 
 * Not great for masonry layouts or anything that needs content to flow vertically first — for that, go for CSS Grid or column-count.
+
+## Preview
+
+<img src="./images/1.png" />
+<img src="./images/2.png" />
+<img src="./images/3.png" />
